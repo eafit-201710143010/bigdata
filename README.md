@@ -4,8 +4,6 @@
 
 *python mr.py otros/dataempleados.csv*
 
-*python mr.py otros/dataempleados.csv -r hadoop --hadoop-streaming-jar $HADOOP_STREAMING_HOME/hadoop-streaming.jar*
-
 # Solución a:
 Se tiene un conjunto de datos, que representan el salario anual de los empleados formales en Colombia por sector económico, según la DIAN.
 
