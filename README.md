@@ -12,3 +12,6 @@ Se realizó un programa en Map/Reduce, con hadoop en Python o Java, que permite 
 El salario promedio por Sector Económico (SE)
 El salario promedio por Empleado
 Número de SE por Empleado que ha tenido a lo largo de la estadística
+
+# Resultados:
+
